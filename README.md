@@ -15,3 +15,5 @@ to fuse snakes together to create a super snake press f
 I hope my commenting makes sense 
 
 Have fun :)
+
+[![Run on Repl.it](https://repl.it/badge/github/Code-Bullet/SnakeFusion)](https://repl.it/github/Code-Bullet/SnakeFusion)
